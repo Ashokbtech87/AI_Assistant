@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "ai-assistant"
+version = "0.1.0"
+description = ""
+authors = ["ashokbtech87 <ashokbtech87@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyautogui = "^0.9.53"
+pillow = "^9.0.1"
+openpyxl = "^3.0.9"
+selenium = "^4.1.0"
+opencv-python = "^4.5.5.62"
+numpy = "^1.21.5"
+python-dotenv = "^0.19.2"
+pywinauto = "^0.6.8"
+
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
