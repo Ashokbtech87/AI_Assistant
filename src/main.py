@@ -6,7 +6,7 @@ import threading
 import logging
 from utils import setup_logging, cleanup_temp_storage, ensure_directories
 from application_manager import open_application, close_application, switch_application
-from web_navigator.py import navigate_and_save_images
+from web_navigator import navigate_and_save_images
 from slideshow_creator import create_slideshow
 from office_operations import create_word_document, create_excel_workbook, create_powerpoint_presentation
 from screenshot_logger import start_recording, stop_recording

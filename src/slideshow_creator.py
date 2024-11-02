@@ -1,4 +1,4 @@
-# src/slideshow_creator.py
+# srcslideshow_creator.py
 
 import cv2
 import os

@@ -1,4 +1,4 @@
-# src/screenshot_logger.py
+# srcscreenshot_logger.py
 
 import os
 import time
