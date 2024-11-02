@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# Poetry virtual environments
+.poetry/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.bak
+*.tmp
+
+# Logs and databases
+*.log
+
+# Data files
+data/temp_storage/
+assistant.log
+
+# Configuration files
+config.py
+
+# System files
+.DS_Store
+Thumbs.db
